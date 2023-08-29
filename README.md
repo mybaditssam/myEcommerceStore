@@ -27,7 +27,7 @@ The connection.js file sets up the Sequelize connection to the MySQL database. I
 ### Server
 The server.js file configures an Express server to handle HTTP requests. It uses the Sequelize connection to sync models to the database and then starts the server.
 
-To start the server, run:
+- To start the server, run:
 "node server.js"
 
 ## Components
