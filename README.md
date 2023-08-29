@@ -42,3 +42,7 @@ The seeds module contains seed data for categories, products, product tags, and 
 
 ### Conclusion
 This project provides a basic structure for building an ecommerce application with a MySQL database. You can extend and customize it to suit your specific requirements. If you have any questions or need further assistance, feel free to reach out!
+
+##Demo
+https://github.com/mybaditssam/myEcommerceStore/assets/127529427/a74a3e2a-d8d1-4ba4-8fa5-08477649fa6f
+
